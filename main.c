@@ -1,3 +1,5 @@
+// Author: Midas van Veen
+
 #include <stdio.h>
 #include <stdlib.h>
 
